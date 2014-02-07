@@ -1,0 +1,9 @@
+{
+  "name": "jsencrypt",
+  "description": "Generate RSA Private and Public keys in meteor.",
+  "homepage": "https://github.com/wreiske/meteor-jsencrypt",
+  "author": "Will Reiske <wreiske@mieweb.com>",
+  "version": "0.0.8",
+  "git": "https://github.com/wreiske/meteor-jsencrypt.git",
+  "packages": {}
+}
